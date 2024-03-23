@@ -24,8 +24,7 @@ body {
 }
 
 .confirm {
-	animation: rainbow 10s linear infinite;
-  background: yellow;
+  background: green;
   color: white;
   font-weight: bold;
 } 
