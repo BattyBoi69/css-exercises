@@ -50,7 +50,6 @@ ul {
 }
 
 a {
-	color: #666;
   text-decoration: none;
 }
 

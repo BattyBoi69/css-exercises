@@ -10,7 +10,6 @@
   <body>
     <div class="modal">
 			<div class="icon">!</div>
-			<div class="non-icon">
 			<div class="top-section">
 				<div class="header">Are you sure you want to do that?</div>
 				<button class="close-button">✖</button>
@@ -19,7 +18,6 @@
 			<div class="bottom-section">
 				<button class="continue">Continue</button>
 				<button class="cancel">Cancel</button>
-			</div>
 			</div>
     </div>
   </body>

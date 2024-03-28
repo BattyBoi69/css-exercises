@@ -47,7 +47,6 @@ body {
 
 .top-section {
 	display: flex;
-	align-items: center;
 }
 
 .header {
